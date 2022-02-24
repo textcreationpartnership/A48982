@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act of Common-Councell made the sixth of October 1646. Alderman Adams Major. For reformation of sundry abuses practised by divers persons in the common-markets and streets of the City of London</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48982</idno>
+            <idno type="STC">Wing L2852H</idno>
+            <idno type="STC">ESTC R216714</idno>
+            <idno type="EEBO-CITATION">99828436</idno>
+            <idno type="PROQUEST">99828436</idno>
+            <idno type="VID">32863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1954:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act of Common-Councell made the sixth of October 1646. Alderman Adams Major. For reformation of sundry abuses practised by divers persons in the common-markets and streets of the City of London</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[22] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher, printer to the honorable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Running title reads: The lawes of the market, Adams Major.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32863:1" rendition="simple:additions"/>
+            <p>AN ACT OF Common-Councell <hi>MADE</hi> The ſixth of <hi>October</hi> 1646. Alder<g ref="char:EOLhyphen"/>man <hi>Adams</hi> Major.</p>
+            <p>
+               <hi>For reformation of ſundry abuſes practi<g ref="char:EOLhyphen"/>ſed by divers Perſons in the Common-Markets and Streets of the City of</hi> London.</p>
+            <figure>
+               <figDesc>arms</figDesc>
+            </figure>
+            <p>Printed by <hi>James Fleſher,</hi> Printer to the Honorable City of <hi>London,</hi> 1656.</p>
+            <pb facs="tcp:32863:2" rendition="simple:additions"/>
+            <pb facs="tcp:32863:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32863:3"/>
+            <pb facs="tcp:32863:3"/>
+            <head>The Lawes of the Market. <hi>ADAMS</hi> Major.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas ſeveral good Laws and Ordinances have been heretofore made, as well by the Court of Lord Ma<g ref="char:EOLhyphen"/>ior and Aldermen, as by this Court, for the wel-ordering of the Markets of the City of <hi>London,</hi> for the re<g ref="char:EOLhyphen"/>dreſſe of ſeverall abuſes of But<g ref="char:EOLhyphen"/>chers, Victuallers, &amp; others there<g ref="char:EOLhyphen"/>unto reſorting, for ſale of their Fleſh victuals, and other Com<g ref="char:EOLhyphen"/>modities in the ſeverall Markets of this City, and aſſigning places and times for the ſaid Markets to be kept and held; Which ſaid Laws and Ordinances by daily expe<g ref="char:EOLhyphen"/>rience are found not effectual to pre<g ref="char:EOLhyphen"/>vent ſome preſent and growing in<g ref="char:EOLhyphen"/>conveniences, nor have wrought
+<pb facs="tcp:32863:4"/> that good effect, as was intended thereby.</p>
+            <p>For redreſſe whereof, be it enacted by the Right Honorable the Lord Maior, Aldermen, and Commons in Common-councell aſſembled, and by authority of the ſame, That no Butcher or Country Farmer, Victualler, or other perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever, either free of the City of <hi>London,</hi> or not free of the ſaid City, from and after the firſt day of <hi>December</hi> next, after the pu<g ref="char:EOLhyphen"/>blication of this Act, ſhall ſell, ut<g ref="char:EOLhyphen"/>ter, or put to open ſhew or ſale in the Streets or White-markets with<g ref="char:EOLhyphen"/>in this City; that is to ſay, <hi>Leaden<g ref="char:EOLhyphen"/>hall ſtreet</hi> without the <hi>Hall, Cheapſide</hi> and <hi>Newgate-market,</hi> any Beef upon pain that every perſon or perſons that from and after the time afore<g ref="char:EOLhyphen"/>ſaid, ſhall ſell, utter, put to ſale, or ſhew in any of the ſaid Markets any Beef, ſhall forfeit and loſe
+<pb facs="tcp:32863:4"/> Twenty ſhillings for every time ſo offending or doing contrary to the true intent and meaning of this Act, And further be it enacted by authority aforeſaid, that all and every Butcher, free, or not free of the City of <hi>London,</hi> who keepeth no Butcher Shop or Shops within the ſaid City and Liberties there<g ref="char:EOLhyphen"/>of, or within two miles diſtance of the Liberties thereof, ſhall, and may fell, utter, ſhew, and put to ſale, his, or their Beef, Mutton, Veal, Lamb, Pork, and other Butchery ware, at certain ſtalls and places in that behalf appointed in <hi>Leaden<g ref="char:EOLhyphen"/>hall</hi> and the <hi>Greenyard</hi> there, and that onely upon Wedneſdays and Sa<g ref="char:EOLhyphen"/>turdays weekly, and not in any other place or places within the ſaid City of <hi>London</hi> and Liberties there<g ref="char:EOLhyphen"/>of, upon pain that every ſuch But<g ref="char:EOLhyphen"/>cher or Butchers who ſhall ſell, ut<g ref="char:EOLhyphen"/>ter, or put to ſale, or ſhew any Beef,
+<pb facs="tcp:32863:5"/> Mutton, Veal, Lambe, Pork, or, any other Butchery ware in any other place or places within the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> or Liberties thereof, then in <hi>Leadenhall</hi> and the <hi>Greenyard</hi> there, ſhall for every ſuch offence or doing forfeit Twenty ſhillings And whereas of late times, many of the ſtalls and ſtandings within <hi>Leaden<g ref="char:EOLhyphen"/>hall</hi> and the <hi>Greenyard</hi> there, have, and yet are in the occupations of ſeverall perſons who are not But<g ref="char:EOLhyphen"/>chers by Trade, nor uſe or exerciſe the Trade of a Butcher, who let them out at dear rates to others; And likewiſe many of the ſaid ſtalls are in the poſſeſſion of Butchers who live within the City of <hi>London</hi> and Liberties thereof, who keep the ſaid Stalls and likewiſe their Shops, By means of which ſaid doings, the Country Butchers, and other Butchers who keep no Shops within the ſaid City, or within two
+<pb facs="tcp:32863:5"/> miles of the Liberties of the City of <hi>London,</hi> and would furniſh the ſaid Markets with Butchery ware, can get no convenient room there, and ſo are neceſſitated to fell and utter their Commodities in the White-markets and other places, or to for<g ref="char:EOLhyphen"/>bear the Markets, whereby prices are inhaunſed and the ſaid Market disfurniſhed.</p>
+            <p>For remedy whereof, be it enacted by the Authority aforeſaid, That all the ground where the ſtandings and places for ſale and uttering of Fleſh and Butchery ware within <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eadenhall</hi> and the <hi>Greenyard</hi> there, be reſumed and taken into the Ci<g ref="char:EOLhyphen"/>ties hands and actual poſſeſſion, be<g ref="char:EOLhyphen"/>fore the ſaid firſt day of <hi>December</hi> next inſuing.</p>
+            <p>And further that no Stall, ſtan<g ref="char:EOLhyphen"/>ding, or place within <hi>Leadenha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> or the <hi>Greenyard</hi> there, ſhal from thence<g ref="char:EOLhyphen"/>forth be letten or farmed out unto
+<pb facs="tcp:32863:6"/> any Butcher or Butchers, who doth, or ſhall keep any Butcherſhop or ſhops within the City of <hi>London</hi> or Liberties thereof, or within two miles of the Liberties of the ſaid City, for ſo long time as he, or they ſhall keep any Butchers ſhop within the Limits aforeſaid.</p>
+            <p>And that from thenceforth the Stals, ſtandings, and places in <hi>Leadenhall</hi> and the <hi>Greenyard</hi> there, be let unto Country Butchers, or ſuch Freemen who are Butchers, and keep not any Butcher ſhop or ſhops within the City of <hi>London</hi> and Li<g ref="char:EOLhyphen"/>berties thereof, or within two miles diſtance of the Liberties of the ſaid City, and for ſo long time only as he or they ſhall furniſh the ſaid ſtalls, ſtandings, and places with wholſome Beef, Mutton, Veal, Lamb, Pork, or other Butchery ware upon Wedneſdays and Sa<g ref="char:EOLhyphen"/>turdays, being the uſuall Market
+<pb facs="tcp:32863:6"/> daies there, in his or their own rights, and not as Servant or Ser<g ref="char:EOLhyphen"/>vants to others.</p>
+            <p>And further, That no Butcher whatſoever ſhall have and enioy more then one ſtall, ſtanding, or place within <hi>Leadenhall</hi> or the <hi>Green<g ref="char:EOLhyphen"/>yard</hi> there at one time.</p>
+            <p>Provided alwayes that the But<g ref="char:EOLhyphen"/>chers Freemen of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> ſhall and may at all times con<g ref="char:EOLhyphen"/>venient, ſell utter, ſhew, and put to ſale their Fleſh and Butchery wa<g ref="char:EOLhyphen"/>res in their Shops within the ſaid City of <hi>London,</hi> and Liberties there<g ref="char:EOLhyphen"/>of, as formerley they have done and accuſtomed; any thing in this Act to the contrary notwithſtanding.</p>
+            <p>Provided that the Country Far<g ref="char:EOLhyphen"/>mer, Lader, or Kidder, as to all wholſome Fleſh victuals and other Commodities except Beef, may have liberty to ſell, ſhew and utter the ſame in the Common and pub<g ref="char:EOLhyphen"/>lique
+<pb facs="tcp:32863:7"/> White-markets within the City of <hi>London</hi> and Liberties there<g ref="char:EOLhyphen"/>of in Market times this Act, or any thing therein contained to the con<g ref="char:EOLhyphen"/>trary notwithſtanding.</p>
+            <p>And foraſmuch as of late the Fo<g ref="char:EOLhyphen"/>rain Butchers, Victuallers, and other people reſorting to the Mar<g ref="char:EOLhyphen"/>kets of the City of <hi>London</hi> to ſell their Fleſh victuals and other Com<g ref="char:EOLhyphen"/>modities, do continue and keep their Markets all the day, and un<g ref="char:EOLhyphen"/>till night, not obſerving the hours appointed for their departure by for<g ref="char:EOLhyphen"/>mer Acts and Ordinances, To the end the ſtreets may in due time be cleanſed for the health of the Inha<g ref="char:EOLhyphen"/>bitants of thoſe places; which doing of theirs tendeth much to the diſorder of the ſaid Markets (pe<g ref="char:EOLhyphen"/>ſtering the ſtreets where thoſe mar<g ref="char:EOLhyphen"/>kets are kept) inhaunſing the prices of Commodities, diſturbance and hinderance of Paſſengers and Tra<g ref="char:EOLhyphen"/>deſmen
+<pb facs="tcp:32863:7"/> dwelling near the ſaid places, and by reaſon thereof the ſtreets cannot be cleanſed as they ought to be, to the ſcandall of the Government of the City of <hi>London</hi> and is very neceſſary to be refor<g ref="char:EOLhyphen"/>med.</p>
+            <p>And whereas it is pretended, that the formerly appointed times for raiſing of the Markets is too ſoon; by reaſon whereof the parties re<g ref="char:EOLhyphen"/>pairing thereto cannot have ſuffi<g ref="char:EOLhyphen"/>cient time to ſell off their Commo<g ref="char:EOLhyphen"/>dities: To the end therefore that ſuch perſons may have a convenient time to vend their Commodities, and be rendered without excuſe and that there might be alſo a conve<g ref="char:EOLhyphen"/>nient time afterward for cleanſing of the ſtreets;</p>
+            <p>It is enacted by the Authority aforeſaid, That the Market-bell in the ſeverall Markets within the City of <hi>London</hi> ſhall ring twice eve<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:32863:8"/> market day (that is to ſay) the firſt ringing (from the five and twentieth day of <hi>March</hi> yearly, un<g ref="char:EOLhyphen"/>till the twenty ninth day of <hi>Septem<g ref="char:EOLhyphen"/>ber</hi>) at ſeven of the clock before noon; and from the twenty ninth day of <hi>September</hi> yearly, untill the five and twentieth day of <hi>March</hi> at eight of the clock before noon, and not before: And that before that time no perſon or perſons ſhall ſell, ſhew, or put to ſale his Fleſh, Victuals, or other Commodites.</p>
+            <p>And that the ſecond ringing of the ſaid market-bell in the ſeverall markets aforeſaid, for raiſing of the ſaid Markets, ſhall begin to ring, from, and after the five and twen<g ref="char:EOLhyphen"/>tieth day of <hi>March</hi> yearly, untill the twenty ninth day of <hi>September</hi> year<g ref="char:EOLhyphen"/>ly, half an hour after four of the clock in the afternoon, and to conti<g ref="char:EOLhyphen"/>nue ringing till five of the clock: And from &amp; after the twenty ninth
+<pb facs="tcp:32863:8"/> day of <hi>September</hi> untill the five and twentieth day of <hi>March,</hi> to begin to ring half an hour after two of the clock, and to continue ringing till three of the clock in the afternoon, And that no Butcher and But<g ref="char:EOLhyphen"/>chers, or other market people what<g ref="char:EOLhyphen"/>ſoever reſorting to any publique or Common-market within the City of <hi>London</hi> or Liberties thereof, ſhall utter, ſell, or put to open ſhew or ſale any Fleſh, Victuals, or other Com<g ref="char:EOLhyphen"/>modities whatſoever in the ſaid Markets that day after the end of the ringing of the ſaid bell, but ſhall immediately after the ſaid bell hath done ringing as aforeſaid, de<g ref="char:EOLhyphen"/>part from the ſaid markets, upon pain that every perſon or perſons who ſhall offend, or do contrary to this clauſe of this Act, ſhall forfeit the ſumme of Ten ſhillings for eve<g ref="char:EOLhyphen"/>ry time offending or doing contrary to this clauſe of this Act.</p>
+            <pb facs="tcp:32863:9"/>
+            <p>And foraſmuch as the market is moſt principally intended for the be<g ref="char:EOLhyphen"/>nefit of Houſekeepers, who buy for their own uſe and behoof; It is fur<g ref="char:EOLhyphen"/>ther enacted by Authority aforeſaid, That at the beginning of the rin<g ref="char:EOLhyphen"/>ging of the market-bell for raiſing of the ſaid market, and during the time of the ringing thereof, the Re<g ref="char:EOLhyphen"/>tailers and Traders of this City who buy to ſell again, may law<g ref="char:EOLhyphen"/>fully enter into the ſaid ſeverall Markets, or any of them and make their Proviſions, and buy the re<g ref="char:EOLhyphen"/>mainder of the ſaid markets, and carry the ſame to their ſeverall Houſes and Shops, and not before, upon pain that every ſuch Retailer or Retailers, or Traders, who ſhall buy any Commoditie in the ſaid markets to ſell again, before the Ringing of the market-bell for rai<g ref="char:EOLhyphen"/>ſing of the ſaid markets as afore<g ref="char:EOLhyphen"/>ſaid, contrary to the intent of this
+<pb facs="tcp:32863:9"/> clauſe of this Act, ſhall forfeit for every time Forty ſhillings.</p>
+            <p>And foraſmuch as all dead Fleſh<g ref="char:EOLhyphen"/>meat ought be ſold in open &amp; com<g ref="char:EOLhyphen"/>mon markets, and not to be car<g ref="char:EOLhyphen"/>ryed up and down, and ſold by way of Hawking; by means whereof much unwholſome Meat hath been vended and ſold, to the great deceipt of the buyer thereof, and preiudice of the Common-wealth; And where<g ref="char:EOLhyphen"/>as by the Cuſtome of this City, ſuch Fleſh and other things hawked are become forfeited; It is enacted by Authority aforeſaid, That no But<g ref="char:EOLhyphen"/>cher or other perſon or perſons whatſoever ſhall ſell, utter, or offer to put to ſale by way of Hawking, or as a Hawker, any manner of Fleſh whatſoever; in any Street or Lane, Inne, or other place or places with<g ref="char:EOLhyphen"/>in this City of <hi>London</hi> or Liber<g ref="char:EOLhyphen"/>ties thereof, but onely in his, or their open Shop or Shops, Stall
+<pb facs="tcp:32863:10"/> or Stalls, or in the uſual Market place or places, and in Market time onely, upon pain of forfeiture of all ſuch Fleſh ſo carryed or offered to be put to ſale by way of Hawking without any manner of favour, ac<g ref="char:EOLhyphen"/>cording to the ancient Cuſtome of the City of <hi>London</hi> uſed and appro<g ref="char:EOLhyphen"/>ved.</p>
+            <p>And whereas divers Inhabi<g ref="char:EOLhyphen"/>tants dwelling in, or near unto the ſeverall market places aforeſaid, do exact and take ſeverall ſummes of money of the Country people who bring Victuall to the ſaid ſeverall markets, for, &amp; under pretence that it is in their power to hinder ſuch market people from ſtanding in the Markets before their doors to ſell their Victuall; which pretence of theirs is utterly againſt Law, for that they have no power to hinder any the market people from ſtan<g ref="char:EOLhyphen"/>ding or ſitting in the ſaid Markets:
+<pb facs="tcp:32863:10"/> Be it declared and Enacted by Au<g ref="char:EOLhyphen"/>thority aforeſaid, That no ſuch per<g ref="char:EOLhyphen"/>ſon or perſons dwelling or inhabi<g ref="char:EOLhyphen"/>ting in, or near any of the ſaid Mar<g ref="char:EOLhyphen"/>kets; or other perſon or perſons whatſoever, other then the Clerks of the ſeverall Markets, Beadles, and other perſons for their ancient Fees, Duties and Allowances u<g ref="char:EOLhyphen"/>ſually paid and taken, ſhall from henceforth directly or indirectly take, require or exact any ſumme or ſummes of money, or other thing or things, of any perſon or perſons bringing any Victuall or other Commodities or Proviſions to the ſaid Markets to be ſold, for, and in reſpect of any ſuch place, ſtanding, or ſitting in the ſaid ſeverall Mar<g ref="char:EOLhyphen"/>kets, upon pain that every perſon or perſons who after publication of this Act, ſhall exact, require, or take any ſuch ſumme or ſummes of mo<g ref="char:EOLhyphen"/>ney or other thing or reward, ſhall
+<pb facs="tcp:32863:11"/> forfeit and loſe for every time ſo doing and offending Twenty ſhil<g ref="char:EOLhyphen"/>lings. And it is the true intent and meaning of this Act, That in the White-markets no Bag or Bags of ſtraw be uſed or permitted, nor any Boards for that purpoſe, but ſuch as ſhall not be above one Ell in length, and half an Ell in breadth, upon pain of ſix ſhillings eight pence to be forfeited by any perſon or perſons for every time he or they ſhall do or offend againſt this clauſe of this Act.</p>
+            <p>And it is thought fit for the more conveniency of the Markets and market people, for the ſhew and ſale of their Victuall, that ſuch Boards as aforeſaid may be uſed; and if any the market people aforeſaid ſhall deſire to uſe any ſuch Boards pro<g ref="char:EOLhyphen"/>vided by any of the Clerks of the ſe<g ref="char:EOLhyphen"/>verall Markets, that then ſuch Clerk of the ſeverall Markets ſhall
+<pb facs="tcp:32863:11"/> not take for any ſuch board above Two pence for one market day.</p>
+            <p>Provided alwayes, this Act, nor any thing therein contained, ſhall extend unto ſuch perſon or perſons who ſhall bring Peaſcods, Straw<g ref="char:EOLhyphen"/>berries, Reſberries, Roſes, or milke to the markets or ſtreets of the City of <hi>London</hi> to ſell, but that he or they may ſtay, &amp; tarry longer time then is before expreſſed, if they ſee occa<g ref="char:EOLhyphen"/>ſion, ſo as the ſame perſons that bring them firſt to market do con<g ref="char:EOLhyphen"/>tinue the ſelling thereof, and do not tranſfer them to any Huckſter or Retailer to ſell the ſame, any thing in this Act to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>And be it further enacted that all and every Act and Ordinance here<g ref="char:EOLhyphen"/>tofore made for the regulating and wel-governing of the markets within the City of <hi>London,</hi> not being contrary to this preſent Act, ſhall
+<pb facs="tcp:32863:12"/> ſtand &amp; be in their former ſtrength and force, any thing in this Act notwithſtanding.</p>
+            <p>All which pains, forfeitures and penalties, ſumme and ſummes of money to be forfeited by vertue of this Act, ſhall be recovered by action of Debt, Bill, or Plaint to be com<g ref="char:EOLhyphen"/>menced and proſecuted in the name of the Chamberlain of the City of <hi>London</hi> for the time being, in the Court holden before the Maior and Aldermen in the Chamber of the <hi>Guildhall</hi> of the City of <hi>London,</hi> where<g ref="char:EOLhyphen"/>in no Eſſoin or wager of Law ſhall be admitted or allowed for the De<g ref="char:EOLhyphen"/>fendant. And that the Chamberlain of the ſaid City for the time being in all ſuits to be proſecuted by vertue of this Act againſt any Offendor or Offendors contrary to the ſame, ſhall recover the ordinary coſts of ſuit to be expended in and about the proſecution thereof. And if the ſuit
+<pb facs="tcp:32863:12"/> paſſe for the Defendant, then the ſaid Defendant to recover his coſts. And that the Chamberlain for the time being ſhall not have power to take leſſe of any Offendor, then herein is limited to be forfeited for every offence.</p>
+            <p>And further, That one moity of all forfeitures to be recovered by vertue hereof, (the coſts of the ſuit for recovery of the ſame being de<g ref="char:EOLhyphen"/>ducted) ſhall after recovery and re<g ref="char:EOLhyphen"/>ceipt thereof, at, or before the twenty fift day of <hi>March</hi> yearly be paid and delivered to the Treaſurer of <hi>Chriſts Hoſpitall,</hi> to be imployed toward the relief of the poor children to be brought up and maintained in that Hoſpitall: And the other moity to him or them which ſhall firſt give information of the offences for which the forfeitures ſhall grow, and proſecute ſuite in the name of the Chamberlain of the ſaid City
+<pb facs="tcp:32863:13"/> for recovery of the ſame, any thing in this Act to the contrary not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32863:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
